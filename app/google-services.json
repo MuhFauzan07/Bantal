@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028862328542",
+    "project_id": "bantal-92b26",
+    "storage_bucket": "bantal-92b26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028862328542:android:d01487e199fa33ac37cc4f",
+        "android_client_info": {
+          "package_name": "com.example.bantal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfdpYHKzbyx8xKO0zOq3bTIB48rz24fCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
